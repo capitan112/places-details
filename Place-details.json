@@ -1,0 +1,118 @@
+{
+  "details": [
+    {
+      "id": "16911920427781819001",
+      "title": "10 Reasons Why You Should Visit Tel Aviv",
+      "description": "Discover the vibrant culture, stunning beaches, and rich history of Tel Aviv. From the ancient port of Jaffa to the modern skyscrapers, this city offers a unique blend of old and new.",
+      "address": "Tel Aviv-Yafo, Israel",
+      "coordinates": {
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "openingHours": "24/7",
+      "website": "https://www.tel-aviv.gov.il",
+      "priceRange": "Free",
+      "category": "Art",
+      "tags": ["Beaches", "History", "Modern Architecture"],
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "TravelLover123",
+          "comment": "An unforgettable experience! The street art in Florentin is a must-see.",
+          "rating": 5
+        }
+      ],
+      "imageUrl": "https://cdn.theculturetrip.com/wp-content/uploads/2017/03/jaffa-old-city-door.jpg",
+      "isSaved": false,
+      "isLiked": false,
+      "likesCount": 12,
+      "author": {
+        "id": "3571",
+        "authorName": "Ben Jakob",
+        "authorAvatar": {
+          "imageUrl": "https://0.gravatar.com/avatar/430b63571071ec81d57f3605b59a2508?s=50&d=https://cdn.theculturetrip.com/logo/logo50.png&r=g"
+        }
+      },
+      "metaData": {
+        "creationTime": "2017-04-26T12:02:58.000Z",
+        "updateTime": "2017-06-19T14:27:08.000Z"
+      }
+    },
+    {
+      "id": "13618709861800811899",
+      "title": "Inspirational Street Art on the Walls of Tel Aviv",
+      "description": "Explore Tel Aviv's open-air gallery with murals and graffiti by local and international artists. The Florentin neighborhood is a hotspot for urban art.",
+      "address": "Florentin, Tel Aviv",
+      "coordinates": {
+        "lat": 32.0615,
+        "lng": 34.7742
+      },
+      "openingHours": "24/7",
+      "website": "https://streetart.telaviv.com",
+      "priceRange": "Free",
+      "category": "Art",
+      "tags": ["Graffiti", "Murals", "Urban Culture"],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "ArtExplorer",
+          "comment": "Every corner tells a story. Perfect for photography enthusiasts!",
+          "rating": 5
+        }
+      ],
+      "imageUrl": "https://cdn.theculturetrip.com/wp-content/uploads/2017/03/omer1.jpg",
+      "isSaved": true,
+      "isLiked": true,
+      "likesCount": 23,
+      "author": {
+        "id": "3571",
+        "authorName": "Ben Jakob",
+        "authorAvatar": {
+          "imageUrl": "https://0.gravatar.com/avatar/430b63571071ec81d57f3605b59a2508?s=50&d=https://cdn.theculturetrip.com/logo/logo50.png&r=g"
+        }
+      },
+      "metaData": {
+        "creationTime": "2017-03-14T06:44:19.000Z",
+        "updateTime": "2017-06-19T14:29:25.000Z"
+      }
+    },
+    {
+      "id": "14103929279524680592",
+      "title": "Reading The Streets Of Tel Aviv: The Writers Behind The Roads",
+      "description": "Discover the literary history of Tel Aviv through streets named after famous poets and writers. A journey through culture and language.",
+      "address": "Rothschild Boulevard, Tel Aviv",
+      "coordinates": {
+        "lat": 32.0667,
+        "lng": 34.7778
+      },
+      "openingHours": "24/7",
+      "website": "https://literature.telaviv.org",
+      "priceRange": "Free",
+      "category": "Art",
+      "tags": ["Literature", "History", "Walking Tours"],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "BookWorm",
+          "comment": "Fascinating! Learned so much about Israeli authors.",
+          "rating": 4
+        }
+      ],
+      "imageUrl": "https://cdn.theculturetrip.com/wp-content/uploads/2016/04/tel-aviv-714052_1280.jpg",
+      "isSaved": true,
+      "isLiked": true,
+      "likesCount": 123,
+      "author": {
+        "id": "2844",
+        "authorName": "Yael Herzog",
+        "authorAvatar": {
+          "imageUrl": "https://0.gravatar.com/avatar/b1584c7e7d28306e5b3ff6a96b6f86ec?s=50&d=https://cdn.theculturetrip.com/logo/logo50.png&r=g"
+        }
+      },
+      "metaData": {
+        "creationTime": "2016-04-04T20:55:21.000Z",
+        "updateTime": "2017-06-19T14:36:33.000Z"
+      }
+    }
+  ]
+}
